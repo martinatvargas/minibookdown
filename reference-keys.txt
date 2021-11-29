@@ -2,3 +2,4 @@ create-your-open-textbook
 introduction
 the-beginning
 the-middle
+the-end
