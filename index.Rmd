@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "This Is How We Do It"
+author: "Martina Vargas"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
